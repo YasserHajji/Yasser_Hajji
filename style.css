@@ -1,0 +1,16 @@
+body{
+    color:black;
+    font-size:arial;
+}
+ h1{
+  font-weight:bold;
+  background:rgb(201, 111, 8);
+ }
+ h2{
+     background-color: rgb(196, 133, 18);
+ }
+ h3{
+     background-color: rgb(243, 234, 196);
+     background-color: thistle;
+ }
+ 
