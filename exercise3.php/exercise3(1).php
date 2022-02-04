@@ -80,14 +80,7 @@
             <input type="submit">
             </form>
             <h3>5. Use a looping statement to construct the following pattern: 
-            12345678
-            1234567
-            123456
-            12345
-            1234
-            123
-            12
-            1</h3>
+            </h3>
         <?php
         $i=9;
         do{
@@ -100,14 +93,7 @@
         while ($j>1);
         ?>
          <h3>6. Use While loop to print the following pattern: 
-            *
-            **
-            ***
-            ****
-            *****
-            ******
-            *******
-            ********</h3>
+          </h3>
         <?php
         $i=1;
         do{
