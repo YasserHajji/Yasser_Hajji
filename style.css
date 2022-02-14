@@ -4,15 +4,17 @@ body{
 }
  h1{
   font-weight:bold;
-  background:rgb(201, 111, 8);
+  
+  background:rgb(6, 107, 102);
  }
  h2{
-     background-color: rgb(196, 133, 18);
+     background-color: rgb(198, 233, 243);
  }
  h3{
      background-color: rgb(133, 129, 112);
-     background-color: rgb(8, 158, 138);
+     background-color: rgb(9, 142, 160);
      background-color: rgb(32, 32, 32);
      
  }
+ 
  
